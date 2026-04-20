@@ -1,8 +1,8 @@
 # Jupyter Notebook
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
 # VS Code / PyCharm virtual documents
-.virtual_documents/
+**/.virtual_documents/
 
 # Python
 __pycache__/
